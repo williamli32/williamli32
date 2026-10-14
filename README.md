@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&pause=1000&color=1E81FF&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+William+Li!+%F0%9F%91%8B)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&pause=1000&color=1E81FF&vCenter=true&width=435&lines=Hi%2C+I'm+William+Li!+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 I'm currently working at Fidelity Investments as a software engineer, in Westlake, TX. I graduated from Cornell University in 2026, where I was a member of the Glee Club. I primarily consider myself a full-stack developer, though I also dabble in AWS, AI/ML, and DevOps. Ask me about [birds](https://ebird.org/profile/NDgwNDA5NQ)!
 

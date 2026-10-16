@@ -2,7 +2,7 @@
 
 ---------------------------------------------
 
-I'm currently working at Fidelity Investments as a software engineer, in Westlake, TX. I graduated from Cornell University in 2026, where I was a member of the Glee Club. I primarily consider myself a full-stack developer, though I also dabble in AWS, AI/ML, and DevOps. Ask me about [birds](https://ebird.org/profile/NDgwNDA5NQ)!
+I'm currently working at Fidelity Investments as a software engineer, in Westlake, TX. I graduated from Cornell University in 2026, where I majored in information science, and was a member of the Glee Club and the Birding Club. I primarily consider myself a full-stack developer, though I also dabble in AWS, AI/ML, and DevOps. Ask me about [birds](https://ebird.org/profile/NDgwNDA5NQ)!
 
 #### Languages:
 Python, Java, JavaScript, HTML/CSS, TypeScript, OCaml, C/C++, R, SQL, Bash

@@ -11,7 +11,7 @@ Python, Java, JavaScript, HTML/CSS, TypeScript, OCaml, C/C++, R, SQL, Bash
 React, Vue, Node.js, Flask, Spring Boot, Angular, LangChain/LangGraph, Pandas/Numpy, Scikit-learn, TensorFlow, GraphRAG, Cognee
 
 #### Other skills:
-Git, AWS, Linux, Shell scripting, REST APIs, NoSQL, Jenkins, Kafka, PostgreSQL, Postman, Markdown, jQuery, Docker, Kubernetes, XML
+Git, AWS (S3, EC2, Lambda, DynamoDB, etc.), Linux, Shell scripting, REST APIs, NoSQL, Jenkins, Kafka, PostgreSQL, Postman, Markdown, jQuery, Docker, Kubernetes, XML
 
 #### Certifications:
 AWS Certified Cloud Practitioner (2023)
